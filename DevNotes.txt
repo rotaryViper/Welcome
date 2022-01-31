@@ -1,0 +1,1 @@
+The "c" tag removes the overhead of "div" tags, and is a shorter tag name.
